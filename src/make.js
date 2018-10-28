@@ -17,3 +17,5 @@ function make() {
 function sum(a, b) {
     return a + b;
 };
+exports.make = make;
+exports.sum = sum;

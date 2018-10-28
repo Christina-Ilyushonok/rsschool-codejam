@@ -15,4 +15,5 @@ function recursion(node, arr, depth) {
         recursion(node.right, arr, depth);
     }
     return arr;
-}
+};
+exports.recursion = recursion;

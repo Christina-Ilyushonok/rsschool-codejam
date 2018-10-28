@@ -8,3 +8,4 @@ function sumOfOther(arr){
     });
     return arrSum;
 };
+exports.sumOfOther = sumOfOther;
